@@ -94,9 +94,9 @@ http://localhost:8000.
 ```
 
 ## Fonctionnalités principales
-    Responsive Design : Le site est entièrement optimisé pour être consulté aussi bien sur desktop que sur mobile.
-    Galerie de projets : Une section dédiée à mes réalisations avec des images et des descriptions.
-    Formulaire de contact : Un formulaire permettant aux utilisateurs de m'envoyer des messages directement depuis le site.
+   Responsive Design : Le site est entièrement optimisé pour être consulté aussi bien sur desktop que sur mobile.
+   Galerie de projets : Une section dédiée à mes réalisations avec des images et des descriptions.
+   Formulaire de contact : Un formulaire permettant aux utilisateurs de m'envoyer des messages directement depuis le site.
 
 ## Utilisation
 
