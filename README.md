@@ -3,15 +3,16 @@
 # Mon Portfolio
 
 ## Ce projet est un portfolio personnel créé avec Laravel, un framework PHP moderne. 
-## Il présente mes compétences, mes projets, ainsi que mon parcours professionnel, avec une interface fluide et responsive.
-Table des matières :
-    Aperçu du projet
-    Technologies utilisées
-    Installation et configuration
-    Fonctionnalités principales
-    Utilisation
-    Contribution
-    Licence
+### Il présente mes compétences, mes projets, ainsi que mon parcours professionnel, avec une interface fluide et responsive.
+
+## Table des matières :
+   ### Aperçu du projet
+   ### Technologies utilisées
+   ### Installation et configuration
+   ### Fonctionnalités principales
+   ### Utilisation
+   ### Contribution
+   ### Licence
 
 
 ## Aperçu du projet
