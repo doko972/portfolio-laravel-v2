@@ -105,3 +105,11 @@ Pour cela, modifiez les fichiers dans le répertoire resources/views pour ajuste
 Contribution
 
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez proposer des améliorations, merci de soumettre une pull request ou d'ouvrir une issue dans le dépôt Git.
+
+![Capture d'écran 2024-10-01 144135](https://github.com/user-attachments/assets/9b8efd6b-65ef-456b-a375-b0b0d4dba94d)
+![Capture d'écran 2024-10-01 144143](https://github.com/user-attachments/assets/c16076e1-36d6-4fbe-ac1f-f874c717c335)
+![Capture d'écran 2024-10-01 144157](https://github.com/user-attachments/assets/1de598e1-5a4d-4123-8748-04cb8ea9d948)
+![Capture d'écran 2024-10-01 144213](https://github.com/user-attachments/assets/d35a9214-4757-45fe-a66f-9aeb814a088d)
+
+
+
