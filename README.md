@@ -1,9 +1,9 @@
 # portfolio-laravel
 
-#Mon Portfolio
+# Mon Portfolio
 
-##Ce projet est un portfolio personnel créé avec Laravel, un framework PHP moderne. 
-##Il présente mes compétences, mes projets, ainsi que mon parcours professionnel, avec une interface fluide et responsive.
+## Ce projet est un portfolio personnel créé avec Laravel, un framework PHP moderne. 
+## Il présente mes compétences, mes projets, ainsi que mon parcours professionnel, avec une interface fluide et responsive.
 Table des matières :
     Aperçu du projet
     Technologies utilisées
@@ -14,16 +14,16 @@ Table des matières :
     Licence
 
 
-##Aperçu du projet
+## Aperçu du projet
 
-##Ce portfolio a été conçu pour montrer mes compétences en tant que développeur Full-Stack. Il inclut les sections suivantes :
+## Ce portfolio a été conçu pour montrer mes compétences en tant que développeur Full-Stack. Il inclut les sections suivantes :
     Page d'accueil avec une introduction sur moi.
     Une galerie de mes réalisations.
     Une section contact avec un formulaire permettant de me joindre directement.
 
 
-##L'objectif est de fournir un site interactif et facile à naviguer, qui soit également responsive pour une expérience mobile fluide.
-###Technologies utilisées :
+## L'objectif est de fournir un site interactif et facile à naviguer, qui soit également responsive pour une expérience mobile fluide.
+### Technologies utilisées :
     PHP (Laravel 11) : Pour la gestion du backend et la logique métier.
     WAMP : Utilisé pour émuler l'environnement de développement local (Windows, Apache, MySQL, PHP).
     HTML5, CSS3, JavaScript : Pour la structure, le style et l'interactivité de l'interface utilisateur.
@@ -31,14 +31,15 @@ Table des matières :
     Git : Utilisé pour la gestion du contrôle de version.
 
 
-##Installation et configuration
-###Prérequis
+# Installation et configuration
+
+## Prérequis
     WAMP installé sur votre machine (Windows).
     PHP 8.x ou supérieur.
     Composer : Un gestionnaire de dépendances PHP.
     Git : Si vous souhaitez cloner le projet depuis un dépôt Git.
 
-##Étapes d'installation:
+## Étapes d'installation:
 
 Clonez le projet:
 ```
@@ -91,15 +92,15 @@ Vous pourrez ensuite accéder à l'application à l'adresse suivante :
 http://localhost:8000.
 ```
 
-##Fonctionnalités principales
+## Fonctionnalités principales
     Responsive Design : Le site est entièrement optimisé pour être consulté aussi bien sur desktop que sur mobile.
     Galerie de projets : Une section dédiée à mes réalisations avec des images et des descriptions.
     Formulaire de contact : Un formulaire permettant aux utilisateurs de m'envoyer des messages directement depuis le site.
 
+## Utilisation
 
-##Utilisation
-
-Une fois l'installation terminée, vous pouvez personnaliser le contenu du portfolio en ajoutant vos propres réalisations. Pour cela, modifiez les fichiers dans le répertoire resources/views pour ajuster le texte, les images, et les informations selon vos besoins.
+Une fois l'installation terminée, vous pouvez personnaliser le contenu du portfolio en ajoutant vos propres réalisations. 
+Pour cela, modifiez les fichiers dans le répertoire resources/views pour ajuster le texte, les images, et les informations selon vos besoins.
 Contribution
 
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez proposer des améliorations, merci de soumettre une pull request ou d'ouvrir une issue dans le dépôt Git.
